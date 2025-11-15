@@ -1,16 +1,71 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Hovindu Netmika</h1> 
+<h3 align="center">An undergraduate Computer Science student passionate about development, technology, and innovation 🤖🧠💻👾</h3>
 
-<!--
-**Hovindunethmika/Hovindunethmika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently studying at **University of Westminster**  
+- 🌱 Exploring **New Tech**  
+- 👯 Open to collaboration on **Full Stack Projects**  
+- 🤝 Looking for support in further developing my projects  
+- 👨‍💻 Check out my work at [GitHub](https://github.com/Hovindunethmika/)  
+- 📫 Reach me at **hovindu2003@gmail.com**  
+- ⚡ Fun fact: **"When I'm not coding, I'm either exploring new tech gadgets or perfecting my coffee-making skills! ☕️👨‍💻"**  
+
+## 🛠️ Technologies & Tools  
+
+- 💻 **Languages:** Python, Java, JavaScript  
+- 🎨 **Frontend:** React.js, HTML 5/ CSS 3  
+- 🛠️ **Backend:** Node.js, Express.js  
+- 📱 **Mobile:** React Native  
+- 🗄️ **Databases:** MySQL, MongoDB  
+- 🔧 **Tools:** Git
+
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40" />
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+  </a>
+</p>
+
+
+## 📊 GitHub Stats  
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Hovindunethmika&theme=dark" />
+  </a>
+  <br/>
+  <img src="https://github-readme-stats-theta-eight-76.vercel.app/api/top-langs/?username=Hovindunethmika&theme=dark" />
+</div>
+
+
+## 🤝 Connect with Me  
+
+<p align="left">
+<a href="https://www.linkedin.com/in/hovindu-nethmika-106b99359/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hovindu-nethmika" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/hovindu_nethmika_?igsh=aThkNnF2ZW1vdDk4" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hovindunethmika" height="30" width="40" />
+</a>
+
+</p>
+
