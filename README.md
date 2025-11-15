@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hovindu Netmika</h1> 
+<h1 align="center">Hi 👋, I'm Hovindu Nethmika</h1> 
 <h3 align="center">An undergraduate Computer Science student passionate about development, technology, and innovation 🤖🧠💻👾</h3>
 
 
