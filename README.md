@@ -15,8 +15,8 @@
 ## 🛠️ Technologies & Tools  
 
 - 💻 **Languages:** Python, Java, JavaScript  
-- 🎨 **Frontend:** React.js, HTML 5/ CSS 3  
-- 🛠️ **Backend:** Node.js, Express.js  
+- 🎨 **Frontend:** React.js, HTML 5/ CSS 3 , Dart  
+- 🛠️ **Backend:** Node.js, Express.js , go  
 - 📱 **Mobile:** React Native  
 - 🗄️ **Databases:** MySQL, MongoDB  
 - 🔧 **Tools:** Git
