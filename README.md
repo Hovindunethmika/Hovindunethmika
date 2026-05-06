@@ -18,7 +18,7 @@
 - 🎨 **Frontend:** React.js, HTML 5/ CSS 3 , Dart  
 - 🛠️ **Backend:** Node.js, Express.js , go  
 - 📱 **Mobile:** React Native  
-- 🗄️ **Databases:** MySQL, MongoDB, Supabase  
+- 🗄️ **Databases:** MySQL, PostgreSQL, Supabase  
 - 🔧 **Tools:** Git
 
 <p align="left">
